@@ -18,6 +18,10 @@ MVVM (Model-View-ViewModel) is used to make the architecture cleaner, more reada
 ### Postscript
 This project is built following some article and samples provided by Google and with help of other Jetpack libraries such as [ViewModel and LiveData](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
+Google recommends a single Activity with multiple Fragments when using the new Navigation component. Navigating via Fragments simplifies the lifecycle greatly as you don’t have to deal with complexity of interaction between Activity and Fragment lifecycles. It also makes applying shared element transitions and transition animations very easy, as we’ll see below. You can use Activities as your destinations but for the reasons above, Google’s recommendation is to use Fragments. Activities as destinations make sense when your navigation flow involves interaction with other apps.
+
+
+
 # LICENSE
 MIT Liecense
 ```
