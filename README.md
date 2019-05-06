@@ -23,7 +23,7 @@ Google recommends a single Activity with multiple Fragments when using the new N
 
 
 # LICENSE
-MIT Liecense
+MIT License
 ```
 Copyright (c) 2019 Edward Bryan Abergas
 
