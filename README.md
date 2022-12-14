@@ -2,7 +2,7 @@
 # Android-Kotlin Navigation Architecture Component Demo
 This project is a proof of concept that uses [Navigation Architecture Component](https://developer.android.com/topic/libraries/architecture/navigation/), this app is a simple Notes app without domain knowledge needed to understand the purpose of this app.
 
-## Functionality included
+### Functionality included
 
  1. List notes
  2. View Single note
